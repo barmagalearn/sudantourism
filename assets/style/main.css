@@ -33,6 +33,10 @@ h2,
   font-family: NotoKufi;
 }
 
+a, a:visited {
+  color: inherit;
+  text-decoration: none;
+}
 .max-lg {
   max-width: 1080px;
   margin: 0 auto;
